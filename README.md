@@ -1,3 +1,4 @@
+
 **Privacy Policy**
 
 Andreas Hadjimamas built the Radio Cyprus app as a Free app. This SERVICE is provided by Andreas Hadjimamas at no cost and is intended for use as is.
@@ -44,6 +45,12 @@ I want to inform users of this Service that these third parties have access to t
 **Security**
 
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+****Sharing Information with Third Parties****
+
+The Company will not share any Personal Information it collects with any third party, except in the following cases: (a) to satisfy any applicable law, regulation, legal process, subpoena or governmental request; (b) to enforce this Privacy Policy and/or the EULA, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; (d) to respond to User's support requests or other correspondences; (e) to respond to claims that any use of the App violates the rights of third-parties; (f) to protect the rights, property, or personal safety of Company, any of its Users, or the general public; (g) when Company is undergoing any change in control, including by means of merger, acquisition or purchase of all or substantially all of its assets; (h) to collect, hold, process and/or manage your Personal Information through Company’s authorized third party service providers (for example, Google Analytics mobile analytics platform), as reasonable for business purposes, which may be located in a country that does not have the same data protection laws as your jurisdiction; (i) pursuant to your explicit approval prior to the disclosure; or (j) to cooperate with third parties for the purpose of enhancing the User's experience.
+
+For avoidance of doubt, the Company may transfer and disclose to third parties or otherwise use Non-personal Information at its own discretion.
 
 **Links to Other Sites**
 
